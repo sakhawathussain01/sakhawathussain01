@@ -1,8 +1,28 @@
+# Hi 👋 I'm Sakhavat
 
+Frontend Developer in Progress 🚀
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhawathussain01&show_icons=true&locale=en&layout=compact" alt="sakhawathussain01" /></p>
+## Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhawathussain01&show_icons=true&locale=en" alt="sakhawathussain01" /></p>
+## Next Goals
+- Next.js
+- Node.js
+- Express
+- MongoDB
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakhawathussain01&" alt="sakhawathussain01" /></p>
+## Tech Stack
 
+HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
+
+## 2026 Goals
+
+- Build real-world projects
+- Learn full-stack development
+- Contribute to open source
+- Start freelancing
+
+Thanks for visiting my profile! ⭐
