@@ -16,7 +16,7 @@ Frontend Developer in Progress 🚀
 
 ## Tech Stack
 
-HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
+ JavaScript • Typescript • React •  Next.js • Node.js •
 
 ## 2026 Goals
 
@@ -28,7 +28,7 @@ HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
 Thanks for visiting my profile! ⭐
 
 
-HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
+ JavaScript • Typescript • React •  Next.js • Node.js •
 
 ## 2026 Goals
 
