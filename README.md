@@ -25,8 +25,6 @@ Frontend Developer in Progress 🚀
 - Contribute to open source
 - Start freelancing
 
-Thanks for visiting my profile! ⭐
-
 
  JavaScript • Typescript • React •  Next.js • Node.js •
 
