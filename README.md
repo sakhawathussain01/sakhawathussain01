@@ -26,3 +26,15 @@ HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
 - Start freelancing
 
 Thanks for visiting my profile! ⭐
+
+
+HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
+
+## 2026 Goals
+
+- Build real-world projects
+- Learn full-stack development
+- Contribute to open source
+- Start freelancing
+
+Thanks for visiting my profile! ⭐
